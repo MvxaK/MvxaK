@@ -1,5 +1,5 @@
 # About Me:
-Hi there, my name is Amir and currently studying to become Java developer
+Hi there, my name is Amir - Java developer
 
 
 ## Socials:
